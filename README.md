@@ -1,4 +1,4 @@
-# Hotel Booking Analysis - Snowflake
+# Hotel Booking Analystics - Snowflake
 
 Projeto de análise de dados de reservas de hotel utilizando **Snowflake** como data warehouse. Este projeto implementa um pipeline de dados seguindo a arquitetura **Medallion** (Bronze → Silver → Gold).
 
